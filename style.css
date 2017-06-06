@@ -1,0 +1,22 @@
+body {
+  width: 600px;
+}
+
+button {
+font-size: 21px;
+float: right;
+border-radius: .5vw;
+background-color: white;
+border-color: gray;
+padding-left: 60px;
+padding-right: 60px;
+}
+
+input{
+  
+}
+
+li {
+  font-size: 30px;
+  list-style: none;
+}
